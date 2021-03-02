@@ -115,5 +115,4 @@ Here is the mockup illustration of the tablet version of the site:
 
 Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
 
-<img src="https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-collapsed.png">
-<img src="https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-expanded.png">
+<img src="https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-collapsed.png"><img src="https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-expanded.png">
