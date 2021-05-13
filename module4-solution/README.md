@@ -1,4 +1,4 @@
-**Module 3 - Assignment Completed**
+**Module 4 - Assignment Completed**
   
   View here: (https://esandrea01.github.io/HTML-CSS-Javascript-for-Web-Developers-Course/module4-solution/index.html)
   
